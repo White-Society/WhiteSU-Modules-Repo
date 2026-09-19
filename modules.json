@@ -159,7 +159,7 @@
   {
     "id": "kaorios_toolbox",
     "name": "Kaorios Toolbox",
-    "description": "InstallerX_Revived application installer is the best of the best✅",
+    "description": "Play Integrity fix, device spoofing, framework patching, FPS/CPU overlay, Payload extraction.",
     "version": "1.0.0",
     "versionCode": 1,
     "author": "Wuang26",
@@ -170,13 +170,12 @@
   {
     "id": "installerx",
     "name": "InstallerX Revived",
-    "description": "Play Integrity fix, device spoofing, framework patching, FPS/CPU overlay, Payload extraction.",
+    "description": "InstallerX_Revived application installer is the best of the best✅",
     "version": "1.0.0",
     "versionCode": 1,
     "author": "wxxsfxyzm",
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/wxxsfxyzm/InstallerX-Revived",
     "license": "GPL-3.0"
-    "bannerUrl": "https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/banner/HyperUnlockedBanner.png"
   }
 ]
